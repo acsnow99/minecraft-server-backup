@@ -1,0 +1,10 @@
+I would recommend backing up your worlds after finishing playing every day
+
+-Go to file explorer
+-Select the “view” tab and select “Hidden Items” check box
+-Go into C:\Users\dmsno\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds
+-AppData folder by default is hidden.
+-Select all world folders(with names of random letters and numbers)
+-Drag them into the Drive folder
+-Drive will auto-update the world files
+

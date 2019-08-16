@@ -1,0 +1,10 @@
+Take the following steps to create a world from these files:
+-Download the Bedrock Dedicated Server
+-Unzip it into an empty directory
+-Make necessary changes to server.properties
+-Make a new directory with the name of your world
+-Copy all of the Bedrock Dedicated Server files(from the zip file) into the new directory
+-*If this is going to be a brand new world, skip to the last step*
+-Make a new directory inside the new world directory called worlds/<worldname>/db
+-Copy the db directory inside the original world files to the brand new db directory
+-Run "export WORLDNAME=<worldname>" and "bash server-setup-v3.sh"
